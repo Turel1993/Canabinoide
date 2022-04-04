@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\areaTriangulo\areaTriangulo\bin\Debug\areaTriangulo.exe.config
+C:\Users\Admin\source\repos\areaTriangulo\areaTriangulo\bin\Debug\areaTriangulo.exe
+C:\Users\Admin\source\repos\areaTriangulo\areaTriangulo\bin\Debug\areaTriangulo.pdb
+C:\Users\Admin\source\repos\areaTriangulo\areaTriangulo\obj\Debug\areaTriangulo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\areaTriangulo\areaTriangulo\obj\Debug\areaTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\areaTriangulo\areaTriangulo\obj\Debug\areaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\areaTriangulo\areaTriangulo\obj\Debug\areaTriangulo.exe
+C:\Users\Admin\source\repos\areaTriangulo\areaTriangulo\obj\Debug\areaTriangulo.pdb
